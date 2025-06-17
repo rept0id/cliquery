@@ -1,6 +1,6 @@
 # CLIquery
 
-Just a practical tool to gather info from a user.
+Command line input in a structured and predictable way.
 
 ```
 Usage: ./cliquery.sh --type <input_type> [--desc <description>] [--returns <true|false>] [--positive] [--range <min|max>] [--select-options <option1|option2|...>]
